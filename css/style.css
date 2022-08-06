@@ -8,10 +8,10 @@
   --font-primary: 'Poppins', sans-serif;
   --font-secondary: 'Arvo', serif;
   --font-code: 'Roboto', monospace;
-  --bg-color: #00163f;
+  --bg-color: #37b61b;
   --font-color: #ffffff;
   --btn-bg-color: #ffffff;
-  --accent-color: #be7efe;
+  --accent-color: #7ee0fe;
   --header-shadow: #000 0px 0px 5px;
 }
 
@@ -28,6 +28,11 @@ body {
   height: 100vh;
   color: var(--font-color);
   font-family: var(--font-primary);
+  background-image: url('https://everyonescrypto.com/efmv_back.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
 }
 
 .container {
