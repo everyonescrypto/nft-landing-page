@@ -12,7 +12,7 @@
   --font-color: #ffffff;
   --btn-bg-color: #ffffff;
   --accent-color: #7ee0fe;
-  --header-shadow: #000 0px 0px 5px;
+  --header-shadow: rgb(170, 23, 23) 0px 0px 5px;
 }
 
 * {
